@@ -1,0 +1,27 @@
+#container {
+    min-height: 500px;
+}
+
+.App {
+    width: 95%;
+    margin: auto;
+}
+
+#title {
+    margin: 10px;
+    font-size: 4em;
+}
+
+.teal {
+    color: #3CBBB1;
+}
+
+.red {
+    color: #EE4266;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    
+}
